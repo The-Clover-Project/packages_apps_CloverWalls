@@ -1,0 +1,27 @@
+<!--
+    Copyright (C) 202-2025 The Clover Project
+    SPDX-License-Identifer: Apache-2.0
+-->
+
+<resources>
+
+    <!-- Gradient Collection -->
+
+    <string name="category_gradient_walls">Gradient</string>
+    <string name="author_clover">By Clover Team</string>
+    
+    <string name="wall_1">Gradient-1</string>
+    <string name="wall_2">Gradient-2</string>
+    <string name="wall_3">Gradient-3</string>
+    <string name="wall_4">Gradient-4</string>
+    <string name="wall_5">Gradient-5</string>
+    <string name="wall_6">Gradient-6</string>
+    <string name="wall_7">Gradient-7</string>
+    <string name="wall_8">Gradient-8</string>
+    <string name="wall_9">Gradient-9</string>
+    <string name="wall_10">Gradient-10</string>
+    <string name="wall_11">Gradient-11</string>
+    <string name="wall_12">Gradient-12</string>
+    <string name="wall_13">Gradient-13</string>
+
+</resources>
