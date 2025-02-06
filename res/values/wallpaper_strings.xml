@@ -24,4 +24,52 @@
     <string name="wall_12">Gradient-12</string>
     <string name="wall_13">Gradient-13</string>
 
+    <string name="category_ashura_walls">Ashura Collection</string>
+    <string name="author_ashura">By Ashura</string>
+
+    <string name="wall_14">Ashura-1</string>
+    <string name="wall_15">Ashura-2</string>
+    <string name="wall_16">Ashura-3</string>
+    <string name="wall_17">Ashura-4</string>
+    <string name="wall_18">Ashura-5</string>
+    <string name="wall_19">Ashura-6</string>
+    <string name="wall_20">Ashura-7</string>
+    <string name="wall_21">Ashura-8</string>
+    <string name="wall_22">Ashura-9</string>
+    <string name="wall_23">Ashura-10</string>
+    <string name="wall_24">Ashura-11</string>
+    <string name="wall_25">Ashura-12</string>
+    <string name="wall_26">Ashura-13</string>
+    <string name="wall_27">Ashura-14</string>
+    <string name="wall_28">Ashura-15</string>
+    <string name="wall_29">Ashura-16</string>
+    <string name="wall_30">Ashura-17</string>
+    <string name="wall_31">Ashura-18</string>
+    <string name="wall_32">Ashura-19</string>
+
+    <string name="category_oneplus_walls">OnePlus</string>
+    <string name="author_oneplus">By OnePlus</string>
+    
+    <string name="OP_1">OnePlus-1</string>
+    <string name="OP_2">OnePlus-2</string>
+    <string name="OP_3">OnePlus-3</string>
+    <string name="OP_4">OnePlus-4</string>
+    <string name="OP_5">OnePlus-5</string>
+    <string name="OP_6">OnePlus-6</string>
+    <string name="OP_7">OnePlus-7</string>
+    <string name="OP_8">OnePlus-8</string>
+    <string name="OP_9">OnePlus-9</string>
+    <string name="OP_10">OnePlus-10</string>
+    <string name="OP_11">OnePlus-11</string>
+    <string name="OP_12">OnePlus-12</string>
+    <string name="OP_13">OnePlus-13</string>
+    <string name="OP_14">OnePlus-14</string>
+    <string name="OP_15">OnePlus-15</string>
+    <string name="OP_16">OnePlus-16</string>
+    <string name="OP_17">OnePlus-17</string>
+    <string name="OP_18">OnePlus-18</string>
+    <string name="OP_19">OnePlus-19</string>
+    <string name="OP_20">OnePlus-20</string>
+    <string name="OP_21">OnePlus-21</string>
+
 </resources>

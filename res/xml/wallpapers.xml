@@ -85,4 +85,248 @@
             subtitle1="@string/author_clover" />
         </category>
 
+    <category id="Ashura Collection" title="@string/category_ashura_walls" featured="2">
+        <static-wallpaper
+            id="14"
+            src="@drawable/wall-14"
+            title="@string/wall_14"
+            subtitle1="@string/author_ashura" />
+
+        <static-wallpaper
+            id="15"
+            src="@drawable/wall-15"
+            title="@string/wall_15"
+            subtitle1="@string/author_ashura" />
+
+        <static-wallpaper
+            id="16"
+            src="@drawable/wall-16"
+            title="@string/wall_16"
+            subtitle1="@string/author_ashura" />
+
+        <static-wallpaper
+            id="17"
+            src="@drawable/wall-17"
+            title="@string/wall_17"
+            subtitle1="@string/author_ashura" />
+
+        <static-wallpaper
+            id="18"
+            src="@drawable/wall-18"
+            title="@string/wall_18"
+            subtitle1="@string/author_ashura" />
+
+        <static-wallpaper
+            id="19"
+            src="@drawable/wall-19"
+            title="@string/wall_19"
+            subtitle1="@string/author_ashura" />
+
+        <static-wallpaper
+            id="20"
+            src="@drawable/wall-20"
+            title="@string/wall_20"
+            subtitle1="@string/author_ashura" />
+
+        <static-wallpaper
+            id="21"
+            src="@drawable/wall-21"
+            title="@string/wall_21"
+            subtitle1="@string/author_ashura" />
+
+        <static-wallpaper
+            id="22"
+            src="@drawable/wall-22"
+            title="@string/wall_22"
+            subtitle1="@string/author_ashura" />
+
+        <static-wallpaper
+            id="23"
+            src="@drawable/wall-23"
+            title="@string/wall_23"
+            subtitle1="@string/author_ashura" />
+
+        <static-wallpaper
+            id="24"
+            src="@drawable/wall-24"
+            title="@string/wall_24"
+            subtitle1="@string/author_ashura" />
+
+        <static-wallpaper
+            id="25"
+            src="@drawable/wall-25"
+            title="@string/wall_25"
+            subtitle1="@string/author_ashura" />
+
+        <static-wallpaper
+            id="26"
+            src="@drawable/wall-26"
+            title="@string/wall_26"
+            subtitle1="@string/author_ashura" />
+
+        <static-wallpaper
+            id="27"
+            src="@drawable/wall-27"
+            title="@string/wall_27"
+            subtitle1="@string/author_ashura" />
+
+        <static-wallpaper
+            id="28"
+            src="@drawable/wall-28"
+            title="@string/wall_28"
+            subtitle1="@string/author_ashura" />
+
+        <static-wallpaper
+            id="29"
+            src="@drawable/wall-29"
+            title="@string/wall_29"
+            subtitle1="@string/author_ashura" />
+
+        <static-wallpaper
+            id="30"
+            src="@drawable/wall-30"
+            title="@string/wall_30"
+            subtitle1="@string/author_ashura" />
+
+        <static-wallpaper
+            id="31"
+            src="@drawable/wall-31"
+            title="@string/wall_31"
+            subtitle1="@string/author_ashura" />
+
+        <static-wallpaper
+            id="32"
+            src="@drawable/wall-32"
+            title="@string/wall_32"
+            subtitle1="@string/author_ashura" />
+        </category>
+
+    <category id="OnePlus" title="@string/category_oneplus_walls" featured="3">
+        <static-wallpaper
+            id="OP1"
+            src="@drawable/OP-1"
+            title="@string/OP_1"
+            subtitle1="@string/author_oneplus" />
+
+        <static-wallpaper
+            id="OP2"
+            src="@drawable/OP-2"
+            title="@string/OP_2"
+            subtitle1="@string/author_oneplus" />
+
+        <static-wallpaper
+            id="OP3"
+            src="@drawable/OP-3"
+            title="@string/OP_3"
+            subtitle1="@string/author_oneplus" />
+
+        <static-wallpaper
+            id="OP4"
+            src="@drawable/OP-4"
+            title="@string/OP_4"
+            subtitle1="@string/author_oneplus" />
+
+        <static-wallpaper
+            id="OP5"
+            src="@drawable/OP-5"
+            title="@string/OP_5"
+            subtitle1="@string/author_oneplus" />
+
+        <static-wallpaper
+            id="OP6"
+            src="@drawable/OP-6"
+            title="@string/OP_6"
+            subtitle1="@string/author_oneplus" />
+
+        <static-wallpaper
+            id="OP7"
+            src="@drawable/OP-7"
+            title="@string/OP_7"
+            subtitle1="@string/author_oneplus" />
+
+        <static-wallpaper
+            id="OP8"
+            src="@drawable/OP-8"
+            title="@string/OP_8"
+            subtitle1="@string/author_oneplus" />
+
+        <static-wallpaper
+            id="OP9"
+            src="@drawable/OP-9"
+            title="@string/OP_9"
+            subtitle1="@string/author_oneplus" />
+
+        <static-wallpaper
+            id="OP10"
+            src="@drawable/OP-10"
+            title="@string/OP_10"
+            subtitle1="@string/author_oneplus" />
+
+        <static-wallpaper
+            id="OP11"
+            src="@drawable/OP-11"
+            title="@string/OP_11"
+            subtitle1="@string/author_oneplus" />
+
+        <static-wallpaper
+            id="OP12"
+            src="@drawable/OP-12"
+            title="@string/OP_12"
+            subtitle1="@string/author_oneplus" />
+
+        <static-wallpaper
+            id="OP13"
+            src="@drawable/OP-13"
+            title="@string/OP_13"
+            subtitle1="@string/author_oneplus" />
+
+        <static-wallpaper
+            id="OP14"
+            src="@drawable/OP-14"
+            title="@string/OP_14"
+            subtitle1="@string/author_oneplus" />
+
+        <static-wallpaper
+            id="OP15"
+            src="@drawable/OP-15"
+            title="@string/OP_15"
+            subtitle1="@string/author_oneplus" />
+
+        <static-wallpaper
+            id="OP16"
+            src="@drawable/OP-16"
+            title="@string/OP_16"
+            subtitle1="@string/author_oneplus" />
+
+        <static-wallpaper
+            id="OP17"
+            src="@drawable/OP-17"
+            title="@string/OP_17"
+            subtitle1="@string/author_oneplus" />
+
+        <static-wallpaper
+            id="OP18"
+            src="@drawable/OP-18"
+            title="@string/OP_18"
+            subtitle1="@string/author_oneplus" />
+
+        <static-wallpaper
+            id="OP19"
+            src="@drawable/OP-19"
+            title="@string/OP_19"
+            subtitle1="@string/author_oneplus" />
+
+        <static-wallpaper
+            id="OP20"
+            src="@drawable/OP-20"
+            title="@string/OP_20"
+            subtitle1="@string/author_oneplus" />
+
+        <static-wallpaper
+            id="OP21"
+            src="@drawable/OP-21"
+            title="@string/OP_21"
+            subtitle1="@string/author_oneplus" />
+        </category>
+
 </resources>
